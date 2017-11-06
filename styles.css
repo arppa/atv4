@@ -14,3 +14,23 @@ img{
 	max-width: 100%;
 	
 }
+
+.sisalto{
+	overflow:auto;
+	
+}
+
+.vasen{
+	float:left;
+	width: 50%;
+}
+
+.oikea{
+	float:left;
+	width: 50%;
+}
+
+*{
+	box-sizing:border-box;
+	
+}
